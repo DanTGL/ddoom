@@ -1,0 +1,16 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/myproject
+myproject.so
+myproject.dylib
+myproject.dll
+myproject.a
+myproject.lib
+myproject-test-*
+*.exe
+*.o
+*.obj
+*.lst
+*.WAD

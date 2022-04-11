@@ -1,0 +1,12 @@
+{
+	"authors": [
+		"Daniel"
+	],
+	"copyright": "Copyright © 2022, Daniel",
+	"dependencies": {
+		"derelict-sdl2": "~>2.1.4"
+	},
+	"description": "My first project",
+	"license": "MIT",
+	"name": "myproject"
+}
